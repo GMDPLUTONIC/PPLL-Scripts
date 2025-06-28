@@ -1,0 +1,1 @@
+Support Syndicate [SDC]: https://www.donationalerts.com/r/karjalan
