@@ -5,7 +5,7 @@
 		"android": "2.2074",
 		"mac": "2.2074"
 	},
-	"id": "gmp/gmdplutonic.ppll_script_runner",
+	"id": "gmp.gmdplutonic.ppll_script_runner",
 	"name": "PPLL Script Runner",
 	"version": "v1.0.0",
 	"developer": "GMP/GMDPLUTONIC",
